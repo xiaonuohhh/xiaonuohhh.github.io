@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章（简简单单的代码）</title>
+      <link href="/2026/03/16/hello-world/"/>
+      <url>/2026/03/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一-一些简简单单的博客代码（自用和公用）"><a href="#一-一些简简单单的博客代码（自用和公用）" class="headerlink" title="一.一些简简单单的博客代码（自用和公用）"></a>一.一些简简单单的博客代码（自用和公用）</h1><h2 id="1-md文章书写"><a href="#1-md文章书写" class="headerlink" title="1.md文章书写"></a>1.md文章书写</h2><h3 id="大小字号可以用井号表示，比如："><a href="#大小字号可以用井号表示，比如：" class="headerlink" title="大小字号可以用井号表示，比如："></a>大小字号可以用井号表示，比如：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;### 字&quot;</span>这个字号小，<span class="string">&quot;## 字&quot;</span>这个字号大，以此类推，井号越多，字号越小</span><br><span class="line">(但是没有井号并不是代表最大)</span><br></pre></td></tr></table></figure><h2 id="例如"><a href="#例如" class="headerlink" title="例如"></a>例如</h2><h3 id="例如-1"><a href="#例如-1" class="headerlink" title="例如"></a>例如</h3><h4 id="例如-2"><a href="#例如-2" class="headerlink" title="例如"></a>例如</h4><h5 id="例如-3"><a href="#例如-3" class="headerlink" title="例如"></a>例如</h5><h3 id="下面的后面再写再换"><a href="#下面的后面再写再换" class="headerlink" title="下面的后面再写再换"></a>下面的后面再写再换</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
