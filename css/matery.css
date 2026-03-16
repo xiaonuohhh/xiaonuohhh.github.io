@@ -2295,3 +2295,17 @@ body.DarkMode .theme-btn:hover {
     color: #d9534f;
 }
 
+/* 顶部导航栏 */
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+/* 底部页脚 */
+.footer {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+/* 文字变白，保证可读性 */
+.navbar .navbar-brand,
+.navbar .nav-link,
+.footer, .footer a {
+    color: #fff !important;
+}
