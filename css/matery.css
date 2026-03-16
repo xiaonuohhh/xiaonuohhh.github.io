@@ -2295,28 +2295,3 @@ body.DarkMode .theme-btn:hover {
     color: #d9534f;
 }
 
-/* 顶部导航栏 - 7成黑透明 */
-.navbar {
-    background-color: rgba(0, 0, 0, 0.7) !important;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-    backdrop-filter: blur(8px); /* 可选：毛玻璃模糊效果 */
-    -webkit-backdrop-filter: blur(8px);
-}
-
-/* 底部页脚 - 7成黑透明 */
-.footer {
-    background-color: rgba(0, 0, 0, 0.7) !important;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-    backdrop-filter: blur(8px); /* 可选：毛玻璃模糊效果 */
-    -webkit-backdrop-filter: blur(8px);
-}
-
-/* 文字颜色适配（黑底配白字更清晰） */
-.navbar .navbar-brand,
-.navbar .nav-link,
-.navbar .navbar-toggler-icon,
-.footer, .footer a {
-    color: #ffffff !important;
-}
