@@ -241,8 +241,10 @@ mark {
 }
 
 .bg-color {
-    background-image: none;
+     background-image: none;
     background-color: rgba(0, 0, 0, 0.7);
+    
+}
 
 .text-color {
     color: #0f9d58 !important;
